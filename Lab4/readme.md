@@ -1,4 +1,5 @@
-## Imane / 11/09/2021
+## Imane Lamine
+11/09/2021
 
 ## Executive Summary 
 In this lab, we will be discussing three-chapter. The first one is about Operating systems. In the second chapter, we will learn more about python IDLE. Finally, we will talk more and learn more about graphics.
